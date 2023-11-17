@@ -1,7 +1,5 @@
 ### Hi! 😁
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnD42&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 - 📫 How to reach me: johndurtka@gmail.com
 
 - 🔭 I’m currently working on: The final project for my 4Geeks Academy coding bootcamp, which will be a website for a small dog-walking/pet-sitting business.
