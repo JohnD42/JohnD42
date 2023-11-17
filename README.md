@@ -1,4 +1,4 @@
-### Hi! 😁
+<img src="./githubbanner.png">]
 
 - 📫 How to reach me: johndurtka@gmail.com
 
