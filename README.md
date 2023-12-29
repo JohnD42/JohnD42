@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: johndurtka@gmail.com
 
-- 🔭 I’m currently working on: Applying for jobs, including both contract work and permanent positions!
+- 🔭 I’m currently working on: A personal portfolio website. Also, applying for jobs, including both contract work and permanent positions!
 
 - Projects I like to do for fun: Games! 🎮 I don't actually know any C# or anything though, so it's just been simple stuff so far.
 
